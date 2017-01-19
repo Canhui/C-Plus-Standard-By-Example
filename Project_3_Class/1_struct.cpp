@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "struct.h"
+#include "1_struct.h"
 
 using namespace std;
 
